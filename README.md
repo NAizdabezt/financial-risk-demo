@@ -25,7 +25,7 @@ This repository demonstrates basic **Quantitative Analysis** workflows using Pyt
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tunhatanh/financial-risk-demo.git](https://github.com/tunhatanh/financial-risk-demo.git)
+   git clone [https://github.com/NAizdabezt/financial-risk-demo.git](https://github.com/NAizdabezt/financial-risk-demo.git)
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
